@@ -20,6 +20,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
----
-Note: the files in sample_test_images/ are KiTS23 data and are NOT covered by
-this licence. They remain under CC BY-NC-SA 4.0 - see sample_test_images/README.md.
