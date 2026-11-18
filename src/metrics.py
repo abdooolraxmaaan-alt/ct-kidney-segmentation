@@ -7,7 +7,7 @@ metrics.py - every number used to judge the pipeline.
     Phase 3: binary_classification_scores, binary_confusion_matrix
 
 Textbook references ("Textbook: Ch. N") are to Gonzalez, R. C., & Woods, R. E. (2018).
-Digital image processing (4th ed.). Pearson.
+Digital image processing (4th ed., US edition). Pearson.
 """
 
 import numpy as np

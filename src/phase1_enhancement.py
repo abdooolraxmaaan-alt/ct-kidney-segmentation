@@ -14,7 +14,7 @@ Every setting comes from config.py and was chosen on TRAINING patients only
 (scripts/step2_compare_enhancement.py).
 
 Textbook references ("Textbook: Ch. N") are to Gonzalez, R. C., & Woods, R. E. (2018).
-Digital image processing (4th ed.). Pearson.
+Digital image processing (4th ed., US edition). Pearson.
 """
 
 import cv2
@@ -292,8 +292,8 @@ def homomorphic_filter(image: np.ndarray,
         Oppenheim, A. V., Schafer, R. W., & Stockham, T. G. (1968). Nonlinear
         filtering of multiplied and convolved signals. Proceedings of the IEEE,
         56(8), 1264-1291.
-        Gonzalez, R. C., & Woods, R. E. (2018). Digital image processing (4th ed.).
-        Pearson. (Section on homomorphic filtering.)
+        Gonzalez, R. C., & Woods, R. E. (2018). Digital image processing
+        (4th ed., US edition). Pearson. (Section on homomorphic filtering.)
     """
     # log(1 + x) instead of log(x): black air pixels are 0 and log(0) is undefined.
     log_image = np.log1p(image.astype(np.float64))

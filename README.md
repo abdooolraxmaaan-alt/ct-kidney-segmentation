@@ -207,7 +207,7 @@ share-alike). The slices in `sample_test_images/` are extracted from it unchange
 - Bushberg, J. T., Seibert, J. A., Leidholdt, E. M., & Boone, J. M. (2012). *The essential physics of medical imaging* (3rd ed.). Lippincott Williams & Wilkins.
 - Cover, T., & Hart, P. (1967). Nearest neighbor pattern classification. *IEEE Transactions on Information Theory, 13*(1), 21–27.
 - Dice, L. R. (1945). Measures of the amount of ecologic association between species. *Ecology, 26*(3), 297–302.
-- Gonzalez, R. C., & Woods, R. E. (2018). *Digital image processing* (4th ed.). Pearson.
+- Gonzalez, R. C., & Woods, R. E. (2018). *Digital image processing* (4th ed., US edition). Pearson.
 - Haralick, R. M., Shanmugam, K., & Dinstein, I. (1973). Textural features for image classification. *IEEE Transactions on Systems, Man, and Cybernetics, SMC-3*(6), 610–621.
 - Huynh-Thu, Q., & Ghanbari, M. (2008). Scope of validity of PSNR in image/video quality assessment. *Electronics Letters, 44*(13), 800–801.
 - Jaccard, P. (1912). The distribution of the flora in the alpine zone. *New Phytologist, 11*(2), 37–50.

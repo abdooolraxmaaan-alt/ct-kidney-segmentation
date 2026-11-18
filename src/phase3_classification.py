@@ -18,7 +18,7 @@ The classifier is then used inside the segmentation (segment_with_knn):
                 on that side is tried (up to config.SEED_MAX_ATTEMPTS).
 
 Textbook references ("Textbook: Ch. N") are to Gonzalez, R. C., & Woods, R. E. (2018).
-Digital image processing (4th ed.). Pearson.
+Digital image processing (4th ed., US edition). Pearson.
 """
 
 import joblib

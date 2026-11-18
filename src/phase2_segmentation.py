@@ -28,7 +28,7 @@ Sides: "patient_right" is on the IMAGE LEFT (standard radiology view), and
 "patient_left" on the image right.
 
 Textbook references ("Textbook: Ch. N") are to Gonzalez, R. C., & Woods, R. E. (2018).
-Digital image processing (4th ed.). Pearson.
+Digital image processing (4th ed., US edition). Pearson.
 """
 
 import json
