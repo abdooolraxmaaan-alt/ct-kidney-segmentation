@@ -1,0 +1,5 @@
+split,source,not_kidney,kidney,total
+test,multi_otsu,276,47,323
+test,region_growing,11,45,56
+train,multi_otsu,427,101,528
+train,region_growing,34,87,121

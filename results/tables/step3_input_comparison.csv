@@ -1,0 +1,7 @@
+strategy,input,best_setting,dice_mean,dice_median,dice_std
+multi_otsu,none,"n_classes 3, n_kidney_classes 1, opening_radius 2",0.699,0.807,0.3
+multi_otsu,clahe,"n_classes 3, n_kidney_classes 1, opening_radius 2",0.704,0.823,0.272
+multi_otsu,histeq,"n_classes 5, n_kidney_classes 1, opening_radius 5",0.59,0.624,0.318
+region_growing,none,"seed_low_percentile 60, tolerance 50, opening_radius 2",0.607,0.706,0.329
+region_growing,clahe,"seed_low_percentile 60, tolerance 50, opening_radius 2",0.632,0.67,0.293
+region_growing,histeq,"seed_low_percentile 40, tolerance 20, opening_radius 3",0.777,0.887,0.25

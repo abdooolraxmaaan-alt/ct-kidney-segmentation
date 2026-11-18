@@ -1,0 +1,20 @@
+# Data and virtual environments (large, kept out of git and out of iCloud).
+# No trailing slash on data and .venv: they are symlinks, and "name/" would not match a symlink.
+data
+data.nosync/
+.venv
+.venv.nosync/
+
+# Personal working notes - stay on this laptop only.
+CLAUDE.md
+CODE_GUIDE.md
+
+# Python caches
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# models/ and results/ are deliberately NOT ignored: the trained models and the
+# figures/tables are part of the project.

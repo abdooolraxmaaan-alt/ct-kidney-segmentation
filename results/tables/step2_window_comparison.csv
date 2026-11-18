@@ -1,0 +1,4 @@
+window,level,width,n_slices,cnr_mean,cnr_std,cnr_median,kidney_clipped_white_pct_mean,kidney_clipped_white_pct_std,kidney_clipped_white_pct_median,kidney_clipped_black_pct_mean,kidney_clipped_black_pct_std,kidney_clipped_black_pct_median,ring_clipped_black_pct_mean,ring_clipped_black_pct_std,ring_clipped_black_pct_median
+"[-160, 240]",40.0,400,48,3.471,1.802,2.9,9.934,16.302,0.201,0.0,0.0,0.0,0.423,0.801,0.008
+"[-100, 300]",100.0,400,48,3.729,2.055,2.969,1.274,3.471,0.0,0.014,0.035,0.0,25.897,13.432,22.172
+"[-50, 250]",100.0,300,48,5.764,6.498,3.338,7.514,13.93,0.141,0.494,0.4,0.388,67.746,17.966,70.687

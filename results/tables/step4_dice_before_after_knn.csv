@@ -1,0 +1,11 @@
+strategy,method,split,dice_mean,dice_median,dice_std,iou_mean,slices_below_0_5
+multi_otsu,rule filter,train,0.7042,0.8233,0.2723,0.5994,11
+multi_otsu,k-NN,train,0.6242,0.7413,0.32,0.5232,13
+region_growing,rule filter,train,0.777,0.8869,0.25,0.6863,5
+region_growing,"k-NN, first seed only",train,0.7356,0.8746,0.2946,0.647,7
+region_growing,k-NN + seed retry,train,0.7447,0.8807,0.2945,0.6587,7
+multi_otsu,rule filter,test,0.7654,0.8139,0.218,0.6593,1
+multi_otsu,k-NN,test,0.841,0.8968,0.1524,0.7508,1
+region_growing,rule filter,test,0.8888,0.9251,0.1055,0.813,0
+region_growing,"k-NN, first seed only",test,0.8919,0.9251,0.107,0.8182,1
+region_growing,k-NN + seed retry,test,0.8775,0.9225,0.1181,0.7977,1

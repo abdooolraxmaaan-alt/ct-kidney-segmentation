@@ -1,0 +1,361 @@
+case_id,slice_index,split,strategy,method,dice,iou
+12,14,train,multi_otsu,rule filter,0.2077,0.1159
+12,14,train,multi_otsu,k-NN,0.0692,0.0359
+12,14,train,region_growing,rule filter,0.9608,0.9246
+12,14,train,region_growing,"k-NN, first seed only",0.9608,0.9246
+12,14,train,region_growing,k-NN + seed retry,0.9608,0.9246
+12,18,train,multi_otsu,rule filter,0.1395,0.075
+12,18,train,multi_otsu,k-NN,0.6248,0.4543
+12,18,train,region_growing,rule filter,0.6657,0.4989
+12,18,train,region_growing,"k-NN, first seed only",0.6124,0.4413
+12,18,train,region_growing,k-NN + seed retry,0.6124,0.4413
+12,23,train,multi_otsu,rule filter,0.3894,0.2418
+12,23,train,multi_otsu,k-NN,0.4123,0.2597
+12,23,train,region_growing,rule filter,0.6272,0.4569
+12,23,train,region_growing,"k-NN, first seed only",0.6272,0.4569
+12,23,train,region_growing,k-NN + seed retry,0.6272,0.4569
+12,27,train,multi_otsu,rule filter,0.0,0.0
+12,27,train,multi_otsu,k-NN,0.1934,0.107
+12,27,train,region_growing,rule filter,0.6877,0.524
+12,27,train,region_growing,"k-NN, first seed only",0.6877,0.524
+12,27,train,region_growing,k-NN + seed retry,0.6877,0.524
+12,32,train,multi_otsu,rule filter,0.8639,0.7603
+12,32,train,multi_otsu,k-NN,0.7205,0.5631
+12,32,train,region_growing,rule filter,0.8377,0.7208
+12,32,train,region_growing,"k-NN, first seed only",0.8377,0.7208
+12,32,train,region_growing,k-NN + seed retry,0.8377,0.7208
+12,36,train,multi_otsu,rule filter,0.8987,0.816
+12,36,train,multi_otsu,k-NN,0.8987,0.816
+12,36,train,region_growing,rule filter,0.9642,0.9308
+12,36,train,region_growing,"k-NN, first seed only",0.6616,0.4943
+12,36,train,region_growing,k-NN + seed retry,0.6616,0.4943
+14,79,train,multi_otsu,rule filter,0.6933,0.5305
+14,79,train,multi_otsu,k-NN,0.0,0.0
+14,79,train,region_growing,rule filter,0.0,0.0
+14,79,train,region_growing,"k-NN, first seed only",0.0,0.0
+14,79,train,region_growing,k-NN + seed retry,0.0,0.0
+14,98,train,multi_otsu,rule filter,0.9786,0.9582
+14,98,train,multi_otsu,k-NN,0.6137,0.4427
+14,98,train,region_growing,rule filter,0.6131,0.442
+14,98,train,region_growing,"k-NN, first seed only",0.6131,0.442
+14,98,train,region_growing,k-NN + seed retry,0.6131,0.442
+14,118,train,multi_otsu,rule filter,0.6697,0.5035
+14,118,train,multi_otsu,k-NN,0.0,0.0
+14,118,train,region_growing,rule filter,0.8816,0.7882
+14,118,train,region_growing,"k-NN, first seed only",0.0,0.0
+14,118,train,region_growing,k-NN + seed retry,0.0,0.0
+14,137,train,multi_otsu,rule filter,0.8508,0.7404
+14,137,train,multi_otsu,k-NN,0.0,0.0
+14,137,train,region_growing,rule filter,0.9185,0.8493
+14,137,train,region_growing,"k-NN, first seed only",0.0,0.0
+14,137,train,region_growing,k-NN + seed retry,0.0,0.0
+14,157,train,multi_otsu,rule filter,0.6325,0.4626
+14,157,train,multi_otsu,k-NN,0.5084,0.3408
+14,157,train,region_growing,rule filter,0.667,0.5004
+14,157,train,region_growing,"k-NN, first seed only",0.2624,0.151
+14,157,train,region_growing,k-NN + seed retry,0.2624,0.151
+14,176,train,multi_otsu,rule filter,0.0,0.0
+14,176,train,multi_otsu,k-NN,0.1567,0.085
+14,176,train,region_growing,rule filter,0.0,0.0
+14,176,train,region_growing,"k-NN, first seed only",0.0,0.0
+14,176,train,region_growing,k-NN + seed retry,0.0,0.0
+15,32,train,multi_otsu,rule filter,0.5543,0.3834
+15,32,train,multi_otsu,k-NN,0.5543,0.3834
+15,32,train,region_growing,rule filter,0.5544,0.3835
+15,32,train,region_growing,"k-NN, first seed only",0.9137,0.8411
+15,32,train,region_growing,k-NN + seed retry,0.9137,0.8411
+15,38,train,multi_otsu,rule filter,0.9503,0.9054
+15,38,train,multi_otsu,k-NN,0.9503,0.9054
+15,38,train,region_growing,rule filter,0.9515,0.9074
+15,38,train,region_growing,"k-NN, first seed only",0.9515,0.9074
+15,38,train,region_growing,k-NN + seed retry,0.9515,0.9074
+15,44,train,multi_otsu,rule filter,0.8458,0.7327
+15,44,train,multi_otsu,k-NN,0.5307,0.3612
+15,44,train,region_growing,rule filter,0.9198,0.8515
+15,44,train,region_growing,"k-NN, first seed only",0.9198,0.8515
+15,44,train,region_growing,k-NN + seed retry,0.9198,0.8515
+15,50,train,multi_otsu,rule filter,0.8782,0.7829
+15,50,train,multi_otsu,k-NN,0.8782,0.7829
+15,50,train,region_growing,rule filter,0.5443,0.3739
+15,50,train,region_growing,"k-NN, first seed only",0.927,0.8639
+15,50,train,region_growing,k-NN + seed retry,0.927,0.8639
+15,56,train,multi_otsu,rule filter,0.9493,0.9036
+15,56,train,multi_otsu,k-NN,0.9493,0.9036
+15,56,train,region_growing,rule filter,0.9599,0.9228
+15,56,train,region_growing,"k-NN, first seed only",0.9599,0.9228
+15,56,train,region_growing,k-NN + seed retry,0.9599,0.9228
+15,62,train,multi_otsu,rule filter,0.8785,0.7834
+15,62,train,multi_otsu,k-NN,0.8112,0.6824
+15,62,train,region_growing,rule filter,0.9027,0.8226
+15,62,train,region_growing,"k-NN, first seed only",0.8364,0.7188
+15,62,train,region_growing,k-NN + seed retry,0.8364,0.7188
+17,23,train,multi_otsu,rule filter,0.9594,0.922
+17,23,train,multi_otsu,k-NN,0.1676,0.0915
+17,23,train,region_growing,rule filter,0.9441,0.8941
+17,23,train,region_growing,"k-NN, first seed only",0.9441,0.8941
+17,23,train,region_growing,k-NN + seed retry,0.9441,0.8941
+17,27,train,multi_otsu,rule filter,0.7959,0.661
+17,27,train,multi_otsu,k-NN,0.4308,0.2746
+17,27,train,region_growing,rule filter,0.8387,0.7223
+17,27,train,region_growing,"k-NN, first seed only",0.8387,0.7223
+17,27,train,region_growing,k-NN + seed retry,0.8387,0.7223
+17,31,train,multi_otsu,rule filter,0.4855,0.3206
+17,31,train,multi_otsu,k-NN,0.5909,0.4193
+17,31,train,region_growing,rule filter,0.8611,0.7561
+17,31,train,region_growing,"k-NN, first seed only",0.8611,0.7561
+17,31,train,region_growing,k-NN + seed retry,0.8611,0.7561
+17,35,train,multi_otsu,rule filter,0.7913,0.6547
+17,35,train,multi_otsu,k-NN,0.7913,0.6547
+17,35,train,region_growing,rule filter,0.9029,0.823
+17,35,train,region_growing,"k-NN, first seed only",0.9029,0.823
+17,35,train,region_growing,k-NN + seed retry,0.9029,0.823
+17,39,train,multi_otsu,rule filter,0.7525,0.6032
+17,39,train,multi_otsu,k-NN,0.7525,0.6032
+17,39,train,region_growing,rule filter,0.8222,0.6981
+17,39,train,region_growing,"k-NN, first seed only",0.8222,0.6981
+17,39,train,region_growing,k-NN + seed retry,0.8222,0.6981
+17,43,train,multi_otsu,rule filter,0.8405,0.7249
+17,43,train,multi_otsu,k-NN,0.8405,0.7249
+17,43,train,region_growing,rule filter,0.4684,0.3058
+17,43,train,region_growing,"k-NN, first seed only",0.4684,0.3058
+17,43,train,region_growing,k-NN + seed retry,0.4684,0.3058
+18,58,train,multi_otsu,rule filter,0.8933,0.8072
+18,58,train,multi_otsu,k-NN,0.8933,0.8072
+18,58,train,region_growing,rule filter,0.9102,0.8353
+18,58,train,region_growing,"k-NN, first seed only",0.9102,0.8353
+18,58,train,region_growing,k-NN + seed retry,0.9102,0.8353
+18,65,train,multi_otsu,rule filter,0.897,0.8132
+18,65,train,multi_otsu,k-NN,0.897,0.8132
+18,65,train,region_growing,rule filter,0.9283,0.8662
+18,65,train,region_growing,"k-NN, first seed only",0.9283,0.8662
+18,65,train,region_growing,k-NN + seed retry,0.9283,0.8662
+18,73,train,multi_otsu,rule filter,0.4642,0.3023
+18,73,train,multi_otsu,k-NN,0.2564,0.147
+18,73,train,region_growing,rule filter,0.8977,0.8144
+18,73,train,region_growing,"k-NN, first seed only",0.8977,0.8144
+18,73,train,region_growing,k-NN + seed retry,0.8977,0.8144
+18,80,train,multi_otsu,rule filter,0.4423,0.284
+18,80,train,multi_otsu,k-NN,0.5449,0.3745
+18,80,train,region_growing,rule filter,0.899,0.8166
+18,80,train,region_growing,"k-NN, first seed only",0.899,0.8166
+18,80,train,region_growing,k-NN + seed retry,0.899,0.8166
+18,88,train,multi_otsu,rule filter,0.9223,0.8557
+18,88,train,multi_otsu,k-NN,0.9223,0.8557
+18,88,train,region_growing,rule filter,0.4065,0.2551
+18,88,train,region_growing,"k-NN, first seed only",0.6252,0.4548
+18,88,train,region_growing,k-NN + seed retry,0.6252,0.4548
+18,95,train,multi_otsu,rule filter,0.8662,0.764
+18,95,train,multi_otsu,k-NN,0.8662,0.764
+18,95,train,region_growing,rule filter,0.8793,0.7847
+18,95,train,region_growing,"k-NN, first seed only",0.8793,0.7847
+18,95,train,region_growing,k-NN + seed retry,0.8793,0.7847
+19,35,train,multi_otsu,rule filter,0.8184,0.6927
+19,35,train,multi_otsu,k-NN,0.7301,0.5749
+19,35,train,region_growing,rule filter,0.8499,0.739
+19,35,train,region_growing,"k-NN, first seed only",0.8499,0.739
+19,35,train,region_growing,k-NN + seed retry,0.8499,0.739
+19,41,train,multi_otsu,rule filter,0.9312,0.8712
+19,41,train,multi_otsu,k-NN,0.9312,0.8712
+19,41,train,region_growing,rule filter,0.9329,0.8742
+19,41,train,region_growing,"k-NN, first seed only",0.9329,0.8742
+19,41,train,region_growing,k-NN + seed retry,0.9329,0.8742
+19,46,train,multi_otsu,rule filter,0.8592,0.7532
+19,46,train,multi_otsu,k-NN,0.8592,0.7532
+19,46,train,region_growing,rule filter,0.9112,0.8368
+19,46,train,region_growing,"k-NN, first seed only",0.9112,0.8368
+19,46,train,region_growing,k-NN + seed retry,0.9112,0.8368
+19,52,train,multi_otsu,rule filter,0.8908,0.8031
+19,52,train,multi_otsu,k-NN,0.8908,0.8031
+19,52,train,region_growing,rule filter,0.9261,0.8624
+19,52,train,region_growing,"k-NN, first seed only",0.9261,0.8624
+19,52,train,region_growing,k-NN + seed retry,0.9261,0.8624
+19,57,train,multi_otsu,rule filter,0.9357,0.8792
+19,57,train,multi_otsu,k-NN,0.9357,0.8792
+19,57,train,region_growing,rule filter,0.9374,0.8821
+19,57,train,region_growing,"k-NN, first seed only",0.9374,0.8821
+19,57,train,region_growing,k-NN + seed retry,0.9374,0.8821
+19,63,train,multi_otsu,rule filter,0.7234,0.5667
+19,63,train,multi_otsu,k-NN,0.7931,0.6571
+19,63,train,region_growing,rule filter,0.9039,0.8246
+19,63,train,region_growing,"k-NN, first seed only",0.9039,0.8246
+19,63,train,region_growing,k-NN + seed retry,0.9039,0.8246
+21,14,train,multi_otsu,rule filter,0.0,0.0
+21,14,train,multi_otsu,k-NN,0.0,0.0
+21,14,train,region_growing,rule filter,0.0,0.0
+21,14,train,region_growing,"k-NN, first seed only",0.0,0.0
+21,14,train,region_growing,k-NN + seed retry,0.0,0.0
+21,18,train,multi_otsu,rule filter,0.6756,0.5101
+21,18,train,multi_otsu,k-NN,0.6756,0.5101
+21,18,train,region_growing,rule filter,0.799,0.6653
+21,18,train,region_growing,"k-NN, first seed only",0.799,0.6653
+21,18,train,region_growing,k-NN + seed retry,0.799,0.6653
+21,21,train,multi_otsu,rule filter,0.4983,0.3318
+21,21,train,multi_otsu,k-NN,0.4983,0.3318
+21,21,train,region_growing,rule filter,0.8821,0.789
+21,21,train,region_growing,"k-NN, first seed only",0.8821,0.789
+21,21,train,region_growing,k-NN + seed retry,0.8821,0.789
+21,25,train,multi_otsu,rule filter,0.5477,0.3772
+21,25,train,multi_otsu,k-NN,0.5477,0.3772
+21,25,train,region_growing,rule filter,0.8699,0.7698
+21,25,train,region_growing,"k-NN, first seed only",0.8699,0.7698
+21,25,train,region_growing,k-NN + seed retry,0.8699,0.7698
+21,28,train,multi_otsu,rule filter,0.9069,0.8296
+21,28,train,multi_otsu,k-NN,0.9069,0.8296
+21,28,train,region_growing,rule filter,0.9401,0.8869
+21,28,train,region_growing,"k-NN, first seed only",0.9401,0.8869
+21,28,train,region_growing,k-NN + seed retry,0.9401,0.8869
+21,32,train,multi_otsu,rule filter,0.8283,0.7069
+21,32,train,multi_otsu,k-NN,0.8799,0.7856
+21,32,train,region_growing,rule filter,0.8918,0.8048
+21,32,train,region_growing,"k-NN, first seed only",0.8918,0.8048
+21,32,train,region_growing,k-NN + seed retry,0.8918,0.8048
+23,42,train,multi_otsu,rule filter,0.4826,0.3181
+23,42,train,multi_otsu,k-NN,0.0,0.0
+23,42,train,region_growing,rule filter,0.5184,0.3499
+23,42,train,region_growing,"k-NN, first seed only",0.5184,0.3499
+23,42,train,region_growing,k-NN + seed retry,0.955,0.9139
+23,49,train,multi_otsu,rule filter,0.8989,0.8163
+23,49,train,multi_otsu,k-NN,0.8989,0.8163
+23,49,train,region_growing,rule filter,0.9632,0.9291
+23,49,train,region_growing,"k-NN, first seed only",0.9632,0.9291
+23,49,train,region_growing,k-NN + seed retry,0.9632,0.9291
+23,57,train,multi_otsu,rule filter,0.8116,0.6829
+23,57,train,multi_otsu,k-NN,0.8116,0.6829
+23,57,train,region_growing,rule filter,0.9337,0.8757
+23,57,train,region_growing,"k-NN, first seed only",0.9337,0.8757
+23,57,train,region_growing,k-NN + seed retry,0.9337,0.8757
+23,64,train,multi_otsu,rule filter,0.6184,0.4476
+23,64,train,multi_otsu,k-NN,0.8946,0.8094
+23,64,train,region_growing,rule filter,0.9525,0.9093
+23,64,train,region_growing,"k-NN, first seed only",0.63,0.4598
+23,64,train,region_growing,k-NN + seed retry,0.63,0.4598
+23,72,train,multi_otsu,rule filter,0.961,0.925
+23,72,train,multi_otsu,k-NN,0.961,0.925
+23,72,train,region_growing,rule filter,0.9635,0.9296
+23,72,train,region_growing,"k-NN, first seed only",0.9635,0.9296
+23,72,train,region_growing,k-NN + seed retry,0.9635,0.9296
+23,79,train,multi_otsu,rule filter,0.9202,0.8521
+23,79,train,multi_otsu,k-NN,0.9202,0.8521
+23,79,train,region_growing,rule filter,0.7053,0.5447
+23,79,train,region_growing,"k-NN, first seed only",0.7053,0.5447
+23,79,train,region_growing,k-NN + seed retry,0.7053,0.5447
+13,21,test,multi_otsu,rule filter,0.928,0.8657
+13,21,test,multi_otsu,k-NN,0.928,0.8657
+13,21,test,region_growing,rule filter,0.9277,0.8651
+13,21,test,region_growing,"k-NN, first seed only",0.9277,0.8651
+13,21,test,region_growing,k-NN + seed retry,0.9277,0.8651
+13,26,test,multi_otsu,rule filter,0.9649,0.9322
+13,26,test,multi_otsu,k-NN,0.9649,0.9322
+13,26,test,region_growing,rule filter,0.9406,0.8878
+13,26,test,region_growing,"k-NN, first seed only",0.9406,0.8878
+13,26,test,region_growing,k-NN + seed retry,0.9406,0.8878
+13,32,test,multi_otsu,rule filter,0.8475,0.7354
+13,32,test,multi_otsu,k-NN,0.8475,0.7354
+13,32,test,region_growing,rule filter,0.8254,0.7027
+13,32,test,region_growing,"k-NN, first seed only",0.8254,0.7027
+13,32,test,region_growing,k-NN + seed retry,0.8254,0.7027
+13,37,test,multi_otsu,rule filter,0.5074,0.3399
+13,37,test,multi_otsu,k-NN,0.5074,0.3399
+13,37,test,region_growing,rule filter,0.5021,0.3352
+13,37,test,region_growing,"k-NN, first seed only",0.4877,0.3225
+13,37,test,region_growing,k-NN + seed retry,0.4877,0.3225
+13,43,test,multi_otsu,rule filter,0.6815,0.5169
+13,43,test,multi_otsu,k-NN,0.6815,0.5169
+13,43,test,region_growing,rule filter,0.7513,0.6016
+13,43,test,region_growing,"k-NN, first seed only",0.7513,0.6016
+13,43,test,region_growing,k-NN + seed retry,0.7513,0.6016
+13,48,test,multi_otsu,rule filter,0.8804,0.7864
+13,48,test,multi_otsu,k-NN,0.8804,0.7864
+13,48,test,region_growing,rule filter,0.8737,0.7757
+13,48,test,region_growing,"k-NN, first seed only",0.8737,0.7757
+13,48,test,region_growing,k-NN + seed retry,0.8737,0.7757
+16,46,test,multi_otsu,rule filter,0.7448,0.5934
+16,46,test,multi_otsu,k-NN,0.8835,0.7914
+16,46,test,region_growing,rule filter,0.7435,0.5918
+16,46,test,region_growing,"k-NN, first seed only",0.7435,0.5918
+16,46,test,region_growing,k-NN + seed retry,0.7435,0.5918
+16,54,test,multi_otsu,rule filter,0.5917,0.4201
+16,54,test,multi_otsu,k-NN,0.5917,0.4201
+16,54,test,region_growing,rule filter,0.9204,0.8526
+16,54,test,region_growing,"k-NN, first seed only",0.9204,0.8526
+16,54,test,region_growing,k-NN + seed retry,0.9204,0.8526
+16,62,test,multi_otsu,rule filter,0.5136,0.3455
+16,62,test,multi_otsu,k-NN,0.4538,0.2935
+16,62,test,region_growing,rule filter,0.9257,0.8617
+16,62,test,region_growing,"k-NN, first seed only",0.9257,0.8617
+16,62,test,region_growing,k-NN + seed retry,0.9257,0.8617
+16,70,test,multi_otsu,rule filter,0.6003,0.4289
+16,70,test,multi_otsu,k-NN,0.9205,0.8527
+16,70,test,region_growing,rule filter,0.9335,0.8752
+16,70,test,region_growing,"k-NN, first seed only",0.9335,0.8752
+16,70,test,region_growing,k-NN + seed retry,0.9335,0.8752
+16,78,test,multi_otsu,rule filter,0.9545,0.9129
+16,78,test,multi_otsu,k-NN,0.9545,0.9129
+16,78,test,region_growing,rule filter,0.9662,0.9346
+16,78,test,region_growing,"k-NN, first seed only",0.9662,0.9346
+16,78,test,region_growing,k-NN + seed retry,0.9662,0.9346
+16,86,test,multi_otsu,rule filter,0.8131,0.685
+16,86,test,multi_otsu,k-NN,0.8438,0.7297
+16,86,test,region_growing,rule filter,0.822,0.6977
+16,86,test,region_growing,"k-NN, first seed only",0.9107,0.8361
+16,86,test,region_growing,k-NN + seed retry,0.9107,0.8361
+20,23,test,multi_otsu,rule filter,0.7331,0.5787
+20,23,test,multi_otsu,k-NN,0.91,0.8349
+20,23,test,region_growing,rule filter,0.9098,0.8346
+20,23,test,region_growing,"k-NN, first seed only",0.9098,0.8346
+20,23,test,region_growing,k-NN + seed retry,0.9098,0.8346
+20,27,test,multi_otsu,rule filter,0.9625,0.9278
+20,27,test,multi_otsu,k-NN,0.9625,0.9278
+20,27,test,region_growing,rule filter,0.9626,0.9279
+20,27,test,region_growing,"k-NN, first seed only",0.9626,0.9279
+20,27,test,region_growing,k-NN + seed retry,0.9626,0.9279
+20,31,test,multi_otsu,rule filter,0.768,0.6233
+20,31,test,multi_otsu,k-NN,0.768,0.6233
+20,31,test,region_growing,rule filter,0.8464,0.7338
+20,31,test,region_growing,"k-NN, first seed only",0.8464,0.7338
+20,31,test,region_growing,k-NN + seed retry,0.8464,0.7338
+20,35,test,multi_otsu,rule filter,0.676,0.5106
+20,35,test,multi_otsu,k-NN,0.676,0.5106
+20,35,test,region_growing,rule filter,0.8728,0.7742
+20,35,test,region_growing,"k-NN, first seed only",0.8728,0.7742
+20,35,test,region_growing,k-NN + seed retry,0.8728,0.7742
+20,39,test,multi_otsu,rule filter,0.941,0.8886
+20,39,test,multi_otsu,k-NN,0.941,0.8886
+20,39,test,region_growing,rule filter,0.9449,0.8955
+20,39,test,region_growing,"k-NN, first seed only",0.9449,0.8955
+20,39,test,region_growing,k-NN + seed retry,0.9449,0.8955
+20,43,test,multi_otsu,rule filter,0.7704,0.6265
+20,43,test,multi_otsu,k-NN,0.9549,0.9138
+20,43,test,region_growing,rule filter,0.9601,0.9233
+20,43,test,region_growing,"k-NN, first seed only",0.9601,0.9233
+20,43,test,region_growing,k-NN + seed retry,0.9601,0.9233
+22,171,test,multi_otsu,rule filter,0.0,0.0
+22,171,test,multi_otsu,k-NN,0.9737,0.9488
+22,171,test,region_growing,rule filter,0.971,0.9437
+22,171,test,region_growing,"k-NN, first seed only",0.971,0.9437
+22,171,test,region_growing,k-NN + seed retry,0.971,0.9437
+22,205,test,multi_otsu,rule filter,0.8147,0.6874
+22,205,test,multi_otsu,k-NN,0.8147,0.6874
+22,205,test,region_growing,rule filter,0.902,0.8216
+22,205,test,region_growing,"k-NN, first seed only",0.902,0.8216
+22,205,test,region_growing,k-NN + seed retry,0.902,0.8216
+22,239,test,multi_otsu,rule filter,0.8286,0.7073
+22,239,test,multi_otsu,k-NN,0.8286,0.7073
+22,239,test,region_growing,rule filter,0.9245,0.8596
+22,239,test,region_growing,"k-NN, first seed only",0.9245,0.8596
+22,239,test,region_growing,k-NN + seed retry,0.9245,0.8596
+22,272,test,multi_otsu,rule filter,0.9678,0.9376
+22,272,test,multi_otsu,k-NN,0.9678,0.9376
+22,272,test,region_growing,rule filter,0.9644,0.9312
+22,272,test,region_growing,"k-NN, first seed only",0.9644,0.9312
+22,272,test,region_growing,k-NN + seed retry,0.9644,0.9312
+22,306,test,multi_otsu,rule filter,0.9602,0.9234
+22,306,test,multi_otsu,k-NN,0.9602,0.9234
+22,306,test,region_growing,rule filter,0.9654,0.9331
+22,306,test,region_growing,"k-NN, first seed only",0.9654,0.9331
+22,306,test,region_growing,k-NN + seed retry,0.9654,0.9331
+22,340,test,multi_otsu,rule filter,0.9189,0.85
+22,340,test,multi_otsu,k-NN,0.9689,0.9396
+22,340,test,region_growing,rule filter,0.975,0.9513
+22,340,test,region_growing,"k-NN, first seed only",0.975,0.9513
+22,340,test,region_growing,k-NN + seed retry,0.629,0.4587

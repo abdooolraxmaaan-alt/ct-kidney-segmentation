@@ -1,0 +1,5 @@
+split,strategy,n_slices,dice_mean,dice_median,dice_std,iou_mean,iou_median,iou_std,dice_without_morphology_mean,dice_without_morphology_median,dice_without_morphology_std
+train,multi_otsu,48,0.704,0.823,0.272,0.599,0.7,0.277,0.574,0.692,0.288
+test,multi_otsu,24,0.765,0.814,0.218,0.659,0.686,0.239,0.623,0.725,0.267
+train,region_growing,48,0.777,0.887,0.25,0.686,0.797,0.26,0.751,0.854,0.243
+test,region_growing,24,0.889,0.925,0.106,0.813,0.861,0.146,0.827,0.876,0.19

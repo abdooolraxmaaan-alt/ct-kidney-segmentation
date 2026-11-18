@@ -1,0 +1,15 @@
+# Exact versions, tested on Python 3.12 and 3.14 (macOS) with identical results.
+# Supported: Python 3.12, 3.13, 3.14 - every package below has ready-made wheels for
+# macOS, Windows and Linux on these versions. Python 3.11 is NOT supported:
+# numpy 2.5.5 and scipy 1.18.1 require Python 3.12 or newer.
+# Exact pins (not ranges) so every computer gets the same numbers.
+# pip installs their own dependencies (pillow, joblib, tifffile, ...) automatically.
+# The demo app also needs Tkinter, which is part of Python itself (see README).
+numpy==2.5.5
+scipy==1.18.1
+scikit-image==0.26.0
+opencv-python==5.1.0.95
+scikit-learn==1.9.1
+nibabel==5.5.0
+matplotlib==3.11.2
+pandas==3.1.1
